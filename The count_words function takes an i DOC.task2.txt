@@ -1,0 +1,16 @@
+The count_words function takes an input text, splits it into words using the split method, and then returns the count of words.
+
+The main function is the main entry point of the program. It prompts the user to enter a sentence or paragraph, calls the count_words function to get the word count, and then prints the result to the console.
+
+Error handling is implemented using a try-except block to catch potential errors, such as empty input.
+
+Code comments are added to explain the purpose of different parts of the code, enhancing readability and understanding.
+
+The script provides a user-friendly interface with clear prompts and output messages.
+
+You can run this script, and it will prompt the user to enter a sentence or paragraph, count the words, and display the word count on the console.
+
+
+
+
+
